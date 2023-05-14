@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing Animation](https://readme-typing-svg.herokuapp.com?color=DBB6EEFF&size=28&duration=7200&center=true&vCenter=true&width=1000&lines=Oi!+Sou+a+Iane+Victória+💻😊;Seja+bem+vindo(a)!;Sou+acadêmica+de+Engenharia+de+Software;e+Análise+e+Desenv.+de+Sistemas!)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"> [![Typing Animation](https://readme-typing-svg.herokuapp.com?color=DBB6EEFF&size=28&duration=7200&center=true&vCenter=true&width=1000&lines=Oi!+Sou+a+Iane+Victória+💻😊;Seja+bem+vindo(a)!;Sou+acadêmica+de+Engenharia+de+Software;e+Análise+e+Desenv.+de+Sistemas!)](https://git.io/typing-svg)
 
 Acadêmica e codificadora que acredita no poder da colaboração e do compartilhamento de conhecimento. Estou sempre aberta a networking, oportunidades e amizades! Obrigada pela visita e eu adoraria me [conectar](https://www.linkedin.com/in/iane-victória/)! 😊
 
@@ -17,27 +17,34 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 </div>
 
 <h3>💻 Linguagens & Frameworks</h3>
+
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+<code> <img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 </br></br>
 
 <h3>📚 Linguagens & Frameworks que estou estudando</h3>
+
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-<code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code> <img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+<code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code> 
+<code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></code>
 </br></br>
 
-<h3>👩🏻‍💻 Ferramentas que eu uso no dia a dia</h3>
+<h3>🛠️ Ferramentas que eu uso no dia a dia</h3>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Chrome" alt="chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></code>
+<code><img title="Figma" alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
 </br></br>
