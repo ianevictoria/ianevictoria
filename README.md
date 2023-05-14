@@ -35,7 +35,8 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 <code> <img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code> 
-<code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></code>
+<code><img title="C" alt="linguagem c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
+<code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
 </br></br>
 
 <h3>🛠️ Ferramentas que eu uso no dia a dia</h3>
