@@ -23,7 +23,6 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-
 </br></br>
 
 <h3>📚 Linguagens & Frameworks que estou estudando</h3>
