@@ -3,7 +3,6 @@
 Acadêmica e codificadora que acredita no poder da colaboração e do compartilhamento de conhecimento. Estou sempre aberta a networking, oportunidades e amizades! Obrigada pela visita e eu adoraria me [conectar](https://www.linkedin.com/in/iane-victória/)! 😊
 
 - 📚 Engenharia de Software na [Universidade Cesumar - UniCesumar](https://www.unicesumar.edu.br) 
-- 👩‍💻 Análise e Desenvolvimento de Sistemas na [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br)
 
 <h3>⚡ Onde me encontrar</h3>
 
@@ -27,14 +26,11 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 
 <h3>📚 Linguagens & Frameworks que estou estudando</h3>
 
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code> 
 <code><img title="Csharp" alt="linguagem c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
 <code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
-<code> <img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 </br></br>
 
 <h3>🛠️ Ferramentas que eu uso no dia a dia</h3>
@@ -43,7 +39,6 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Visual Studio Community" alt="visual studio community" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
 <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></code>
 <code><img title="Chrome" alt="chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></code>
 </br></br>
