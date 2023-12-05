@@ -26,7 +26,7 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code><img title="Jupyter" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code> 
 <code><img title="Googlecloud" alt="googlecloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
 <code><img title="Csharp" alt="linguagem c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-<code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
+<code><img title="Dotnet" alt="dotnet" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dotnetcore/dotnetcore-original.svg" /></code>
 </br></br>
 
 <h3>📚 Linguagens & Frameworks que estou estudando</h3>
@@ -37,8 +37,7 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code><img title="Googlecloud" alt="googlecloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
 <code><img title="Power BI" alt="power bi" width="30px" src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" /></code>
 <code><img title="Csharp" alt="linguagem c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-<code><img title="Dotnet" alt="dotnet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
-
+<code><img title="Dotnet" alt="dotnet" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dotnetcore/dotnetcore-original.svg" /></code>
 </br></br>
 
 <h3>🛠️ Ferramentas que eu uso no dia a dia</h3>
