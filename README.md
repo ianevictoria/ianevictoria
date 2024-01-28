@@ -5,7 +5,7 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 - 📚 Engenharia de Software na [Universidade Cesumar - UniCesumar](https://www.unicesumar.edu.br)
 - 💻 Data Scientist em formação pela [Escola DNC](https://www.escoladnc.com.br/)
 
-<h3>⚡ Onde me encontrar</h3>
+<h3>⚡ Onde me encontrar</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victória/)](https://www.linkedin.com/in/iane-victória/)
 [![Instagram](https://img.shields.io/badge/-iane.victoria-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iane.victoria)
