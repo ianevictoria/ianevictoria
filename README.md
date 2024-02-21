@@ -3,7 +3,8 @@
 Acadêmica e codificadora que acredita no poder da colaboração e do compartilhamento de conhecimento. Estou sempre aberta a networking, oportunidades e amizades! Obrigada pela visita e eu adoraria me [conectar](https://www.linkedin.com/in/iane-victória/)! 😊
 
 - 📚 Engenharia de Software na [Universidade Cesumar - UniCesumar](https://www.unicesumar.edu.br)
-- 💻 Data Scientist em formação pela [Escola DNC](https://www.escoladnc.com.br/)
+- 💻 Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
+- 📊 Data Scientist em formação pela [Escola DNC](https://www.escoladnc.com.br/)
 
 <h3>⚡ Onde me encontrar</h3> 
 
