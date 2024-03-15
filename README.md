@@ -6,18 +6,18 @@
 
 Acadêmica e codificadora que acredita no poder da colaboração e do compartilhamento de conhecimento. Estou sempre aberta a networking, oportunidades e amizades! Obrigada pela visita e eu adoraria me [conectar](https://www.linkedin.com/in/iane-victória/)! 😊
 
+<h3>Formações</h3> 
+
 - 📚 Engenharia de Software na [Universidade Cesumar - UniCesumar](https://www.unicesumar.edu.br)
 - 💻 Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
 
-<h3>⚡ Onde me encontrar</h3> 
+<h3>Onde me encontrar</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victória/)](https://www.linkedin.com/in/iane-victória/)
 [![Instagram](https://img.shields.io/badge/-iane.victoria-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iane.victoria)
 [![Gmail](https://img.shields.io/badge/-ianevictoria.tec-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:ianevictoria.tec@gmail.com)](mailto:ianevictoria.tec@gmail.com)
 
-</a>
-
-<h3>💻 Linguagens mais utilizadas e contribuições</h3>
+<h3>Linguagens mais utilizadas e contribuições</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianevictoria&show_icons=true&locale=en&layout=compact" alt="ianevictoria" /></p>
 
@@ -29,7 +29,7 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 
 <br/>
 
-<h3>💻 Linguagens & Frameworks</h3>
+<h3>Linguagens & Frameworks</h3>
 
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="SQL" alt="sql" width="30px" src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" /></code>
@@ -38,7 +38,7 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code><img title="Power BI" alt="power bi" width="30px" src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" /></code>
 </br></br>
 
-<h3>📚 Linguagens & Frameworks que estou estudando</h3>
+<h3>Linguagens & Frameworks que estou estudando</h3>
 
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="SQL" alt="sql" width="30px" src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" /></code>
@@ -47,7 +47,7 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <code><img title="Power BI" alt="power bi" width="30px" src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" /></code>
 </br></br>
 
-<h3>🛠️ Ferramentas que eu uso no dia a dia</h3>
+<h3>Ferramentas que eu uso no dia a dia</h3>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
