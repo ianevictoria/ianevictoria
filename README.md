@@ -1,12 +1,10 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Oi!+Sou+a+Iane+Victória+💻😊;Seja+bem+vindo(a)!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4023&pause=800&color=1969F7&center=true&vCenter=true&repeat=verdadeiro&random=falso&width=435&lines=Oi!+Sou+a+Iane+Vict%C3%B3ria!%F0%9F%98%8A;Seja+bem+vindo(a)!" alt="Typing SVG" /></a>
 </p>
 
 Acadêmica e codificadora que acredita no poder da colaboração e do compartilhamento de conhecimento. Estou sempre aberta a networking, oportunidades e amizades! Obrigada pela visita e eu adoraria me [conectar](https://www.linkedin.com/in/iane-victória/)! 😊
-
-<h3>Formações</h3> 
 
 - 📚 Engenharia de Software na [Universidade Cesumar - UniCesumar](https://www.unicesumar.edu.br)
 - 💻 Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
