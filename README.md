@@ -1,10 +1,13 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"> [![Typing Animation](https://readme-typing-svg.herokuapp.com?color=DBB6EEFF&size=28&duration=7200&center=true&vCenter=true&width=1000&lines=Oi!+Sou+a+Iane+Victória+💻😊;Seja+bem+vindo(a)!;Sou+acadêmica+de+Engenharia+de+Software;e+Análise+e+Desenv.+de+Sistemas!)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Oi!+Sou+a+Iane+Victória+💻😊;Seja+bem+vindo(a)!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 Acadêmica e codificadora que acredita no poder da colaboração e do compartilhamento de conhecimento. Estou sempre aberta a networking, oportunidades e amizades! Obrigada pela visita e eu adoraria me [conectar](https://www.linkedin.com/in/iane-victória/)! 😊
 
 - 📚 Engenharia de Software na [Universidade Cesumar - UniCesumar](https://www.unicesumar.edu.br)
 - 💻 Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
-- 📊 Data Scientist em formação pela [Escola DNC](https://www.escoladnc.com.br/)
 
 <h3>⚡ Onde me encontrar</h3> 
 
@@ -14,25 +17,17 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 
 </a>
 
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ianevictoria&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Iane Staa's Language stats" />
-</a>
+<h3>💻 Linguagens mais utilizadas e contribuições</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianevictoria&show_icons=true&locale=en&layout=compact" alt="ianevictoria" /></p>
+
+<div align="left"> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ianevictoria&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Iane Staa's Github stats" />
 </a>
-</div>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ianevictoria&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Iane Staa's Language stats"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ianevictoria&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Iane Staa's Github stats"/>
-</a>
-</div>
+<br/>
 
 <h3>💻 Linguagens & Frameworks</h3>
 
