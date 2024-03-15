@@ -12,12 +12,26 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 [![Instagram](https://img.shields.io/badge/-iane.victoria-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iane.victoria)
 [![Gmail](https://img.shields.io/badge/-ianevictoria.tec-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:ianevictoria.tec@gmail.com)](mailto:ianevictoria.tec@gmail.com)
 
-
 </a>
 
-<div>
-  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=ianevictoria&show_icons=true&count_private=true&include_all_commits=true&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianevictoria&layout=compact&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-ianevictoria.vercel.app/api/top-langs/?username=ianevictoria&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Iane Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ianevictoria&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Iane Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ianevictoria&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Iane Staa's Language stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ianevictoria&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Iane Staa's Github stats"/>
+</a>
 </div>
 
 <h3>💻 Linguagens & Frameworks</h3>
