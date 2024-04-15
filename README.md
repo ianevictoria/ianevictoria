@@ -29,16 +29,20 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <h3>Linguagens & Frameworks</h3>
 
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="SQL" alt="sql" width="30px" src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" /></code>
+<code><img title="MongoDB" alt="mongodb" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
+<code><img title="MySQL" alt="mysql" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Jupyter" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code> 
 <code><img title="Googlecloud" alt="googlecloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
 <code><img title="Power BI" alt="power bi" width="30px" src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" /></code>
+<code><img title="Dotnet" alt="dotnet" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" /></code>
+<code><img title="Csharp" alt="csharp" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></code>
+<code><img title="Bootstrap" alt="bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /></code>
+<code><img title="React" alt="react" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></code>
 </br></br>
 
 <h3>Linguagens & Frameworks que estou estudando</h3>
 
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="SQL" alt="sql" width="30px" src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" /></code>
 <code><img title="Jupyter" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code> 
 <code><img title="Googlecloud" alt="googlecloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
 <code><img title="Power BI" alt="power bi" width="30px" src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" /></code>
