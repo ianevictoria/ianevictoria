@@ -11,7 +11,6 @@ Acadêmica e codificadora que acredita no poder da colaboração e do compartilh
 <h3>Onde me encontrar</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victória/)](https://www.linkedin.com/in/iane-victória/)
-[![Instagram](https://img.shields.io/badge/-iane.victoria-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iane.victoria)
 [![Gmail](https://img.shields.io/badge/-ianevictoria.tec-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:ianevictoria.tec@gmail.com)](mailto:ianevictoria.tec@gmail.com)
 
 <h3>Linguagens mais utilizadas e contribuições</h3>
