@@ -14,7 +14,7 @@ Acadêmica, pesquisadora bolsista de iniciação científica na área de Intelig
 
 <h3>Onde me encontrar</h3> 
 
-[![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victoria/)](https://www.linkedin.com/in/iane-victória/)
+[![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victoria/)](https://www.linkedin.com/in/iane-victoria/)
 [![Gmail](https://img.shields.io/badge/-ianevictoria.tec-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:ianevictoria.tec@gmail.com)](mailto:ianevictoria.tec@gmail.com)
 
 <h3>Linguagens mais utilizadas e contribuições</h3>
