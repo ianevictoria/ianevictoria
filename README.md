@@ -8,26 +8,17 @@ Acadêmica, pesquisadora bolsista de iniciação científica na área de Intelig
 
 <h3>Formação acadêmica:</h3> 
 
-- 💻 Engenharia de Software [Universidade Cesumar - Unicesumar](https://www.unicesumar.edu.br/)
+- 💻 Pós-graduanda AI and Machine Learning [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
 
-- 💻 Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
+- 💻 Graduanda em Engenharia de Software [Universidade Cesumar - Unicesumar](https://www.unicesumar.edu.br/)
+
+- 💻 Formada em Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
 
 <h3>Onde me encontrar</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victoria/)](https://www.linkedin.com/in/iane-victoria/)
 [![Gmail](https://img.shields.io/badge/-ianevictoria.tec-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:ianevictoria.tec@gmail.com)](mailto:ianevictoria.tec@gmail.com)
 
-<h3>Linguagens mais utilizadas e contribuições</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianevictoria&show_icons=true&locale=en&layout=compact" alt="ianevictoria" /></p>
-
-<div align="left"> 
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ianevictoria&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Iane Staa's Github stats" />
-</a>
-
-<br/>
 
 <h3>Linguagens & Frameworks</h3>
 
