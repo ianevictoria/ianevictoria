@@ -14,10 +14,6 @@ Acadêmica, pesquisadora bolsista de iniciação científica na área de Intelig
 
 - 💻 Formada em Análise e Desenvolvimento de Sistemas [Pontifícia Universidade Católica de Minas Gerais - PUC Minas](https://www.pucminas.br/)
 
-<h3>Formação adicional:</h3>
-
-- 💻 Perfil profissional e conquistas na [DIO](https://www.dio.me/users/ianevictoria_tec) 
-
 <h3>Onde me encontrar</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-ianevictória-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/iane-victoria/)](https://www.linkedin.com/in/iane-victoria/)
